@@ -25,3 +25,33 @@
   font-weight: 100;
   padding: 7px;
 }
+
+/* Services */
+
+.services {
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.services h1 {
+  color: #4cae4c;
+  font-size: 45px;
+  font-weight: 600;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.services .copy1 {
+  color: #4c4c4c;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.service {
+  text-align: center;
+}
+
+.head-service {
+  font-size: 60px;
+  color: #4cae4c;
+}
