@@ -47,10 +47,18 @@
   color: #4c4c4c;
   font-size: 20px;
   font-weight: 300;
+  letter-spacing: 0.7px;
 }
 
 .service {
   text-align: center;
+}
+
+.content-copys {
+  color: #4c4c4c;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.2px;
 }
 
 .head-service {
@@ -83,4 +91,21 @@
   margin-bottom: 50px;
   text-transform: uppercase;
   width: 370px;
+}
+
+/* Copys */
+
+.copys {
+  margin-top: 40px;
+}
+
+.head-copys span{
+  background: #337ab7;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 45px;
+  height: 70px;
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 70px;
 }
